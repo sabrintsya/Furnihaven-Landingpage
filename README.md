@@ -15,7 +15,12 @@ Furnihaven adalah sebuah landing page tentang furniture, nama furnihaven sendiri
 - github
 - vscode
 
+# Instalasi
+- Kloning Repositori:
+Bash
+git clone https://github.com/sabrintsya/Landing-page-Furnihaven-Basic-Mission-SIM-K.github.io.git
 
-
-  
-
+# Instalasi Dependensi:
+Bash
+cd Landing-page-Furnihaven-Basic-Mission-SIM-K.github.io
+npm install
